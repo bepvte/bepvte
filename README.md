@@ -93,12 +93,6 @@ endfacet
 endsolid
 ```
 
-
-<div align="center">
-<img alt="cool gif by Rivka Kopelman" src="https://user-images.githubusercontent.com/8226605/166156045-64546574-8624-4c3d-b78f-f45099f82ec6.gif" align="center">
- <p><i>image borrowed from <a href="https://rivka-kopelman.tumblr.com/">Rivka Kopelman</a></i></p>
-</div>
-
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/bepvte/count.svg" alt="hit counter" align="center">
