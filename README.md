@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="flaming bep vte!!!" src="https://user-images.githubusercontent.com/8226605/166156954-253b8809-40aa-4657-9527-bbbd69f4cf30.gif" align="center">
+<!-- <img alt="flaming bep vte!!!" src="https://user-images.githubusercontent.com/8226605/166156954-253b8809-40aa-4657-9527-bbbd69f4cf30.gif" align="center"> -->
 </div>
 
 HELLO!!! Feel free to rotate my cube.
